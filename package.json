@@ -56,6 +56,8 @@
     "@dcloudio/uni-mp-weixin": "3.0.0-3090820231124001",
     "@dcloudio/uni-quickapp-webview": "3.0.0-3090820231124001",
     "@dcloudio/uni-ui": "^1.4.28",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.0",
     "vue": "^3.3.11",
     "vue-i18n": "^9.8.0"
   },
@@ -69,6 +71,7 @@
     "@rushstack/eslint-patch": "^1.6.0",
     "@types/wechat-miniprogram": "^3.4.7",
     "@uni-helper/uni-app-types": "^0.5.12",
+    "@uni-helper/uni-ui-types": "^0.5.11",
     "@vue/eslint-config-prettier": "^8.0.0",
     "@vue/eslint-config-typescript": "^12.0.0",
     "@vue/runtime-core": "^3.3.11",
