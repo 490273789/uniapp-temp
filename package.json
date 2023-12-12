@@ -66,6 +66,7 @@
     "@dcloudio/uni-stacktracey": "3.0.0-3090820231124001",
     "@dcloudio/uni-vue-devtools": "3.0.0-alpha-3060920221117001",
     "@dcloudio/vite-plugin-uni": "3.0.0-3090820231124001",
+    "@rushstack/eslint-patch": "^1.6.0",
     "@types/wechat-miniprogram": "^3.4.7",
     "@uni-helper/uni-app-types": "^0.5.12",
     "@vue/eslint-config-prettier": "^8.0.0",
